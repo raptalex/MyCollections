@@ -1,0 +1,15 @@
+C:\Users\arapt\Desktop\programming\misc\MyCollections\MyCollections\bin\Debug\net6.0\MyCollections.exe
+C:\Users\arapt\Desktop\programming\misc\MyCollections\MyCollections\bin\Debug\net6.0\MyCollections.deps.json
+C:\Users\arapt\Desktop\programming\misc\MyCollections\MyCollections\bin\Debug\net6.0\MyCollections.runtimeconfig.json
+C:\Users\arapt\Desktop\programming\misc\MyCollections\MyCollections\bin\Debug\net6.0\MyCollections.dll
+C:\Users\arapt\Desktop\programming\misc\MyCollections\MyCollections\bin\Debug\net6.0\MyCollections.pdb
+C:\Users\arapt\Desktop\programming\misc\MyCollections\MyCollections\obj\Debug\net6.0\MyCollections.csproj.AssemblyReference.cache
+C:\Users\arapt\Desktop\programming\misc\MyCollections\MyCollections\obj\Debug\net6.0\MyCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arapt\Desktop\programming\misc\MyCollections\MyCollections\obj\Debug\net6.0\MyCollections.AssemblyInfoInputs.cache
+C:\Users\arapt\Desktop\programming\misc\MyCollections\MyCollections\obj\Debug\net6.0\MyCollections.AssemblyInfo.cs
+C:\Users\arapt\Desktop\programming\misc\MyCollections\MyCollections\obj\Debug\net6.0\MyCollections.csproj.CoreCompileInputs.cache
+C:\Users\arapt\Desktop\programming\misc\MyCollections\MyCollections\obj\Debug\net6.0\MyCollections.dll
+C:\Users\arapt\Desktop\programming\misc\MyCollections\MyCollections\obj\Debug\net6.0\refint\MyCollections.dll
+C:\Users\arapt\Desktop\programming\misc\MyCollections\MyCollections\obj\Debug\net6.0\MyCollections.pdb
+C:\Users\arapt\Desktop\programming\misc\MyCollections\MyCollections\obj\Debug\net6.0\MyCollections.genruntimeconfig.cache
+C:\Users\arapt\Desktop\programming\misc\MyCollections\MyCollections\obj\Debug\net6.0\ref\MyCollections.dll
